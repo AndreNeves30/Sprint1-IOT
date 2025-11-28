@@ -91,7 +91,7 @@ Todas as operações são feitas **localmente**, diretamente no dispositivo do u
 
 Ao utilizar este projeto, o usuário concorda em respeitar esses princípios e adotar práticas responsáveis de uso de visão computacional.
 
-##🧑‍💻 Grupo
+## 🧑‍💻 Grupo
 
 O projeto foi desenvolvido pela seguinte equipe:
 
