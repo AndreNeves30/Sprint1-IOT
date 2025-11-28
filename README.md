@@ -97,11 +97,11 @@ O projeto foi desenvolvido pela seguinte equipe:
 
 | Nome | RM |
 | :--- | :--- |
-| André Neves | [RM 553515] |
-| Beatriz Dantas | [RM 554044] |
-| Caio Tominaga | [RM 553633] |
-| Eduardo Brites | [RM 552943] |
-| Isabela Barcellos | [RM 553746] |
-| Thaís Leoncio | [RM 553892] |   
+| André Neves | 553515 |
+| Beatriz Dantas | 554044 |
+| Caio Tominaga | 553633 |
+| Eduardo Brites | 552943 |
+| Isabela Barcellos | 553746 |
+| Thaís Leoncio | 553892 |   
    
    
