@@ -56,7 +56,6 @@ Durante o vídeo, esses valores podem ser mostrados na tela para demonstrar o ef
 
 ### 1. Instale dependências:
 
-```bash
 pip install opencv-python mediapipe pyserial
 
 ---
