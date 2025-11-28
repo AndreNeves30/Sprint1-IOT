@@ -59,6 +59,8 @@ Durante o vídeo, esses valores podem ser mostrados na tela para demonstrar o ef
 ```bash
 pip install opencv-python mediapipe pyserial
 
+---
+
 ## Nota Ética sobre Uso de Dados Faciais
 
 Este projeto utiliza técnicas de visão computacional para detectar movimentos faciais (piscadas e abertura de boca) **sem realizar identificação de pessoas** e **sem armazenar nenhuma imagem, vídeo ou dado biométrico**.
